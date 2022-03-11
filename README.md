@@ -1,6 +1,6 @@
 # CLWR
 
-CLWR(Negative Control Exposure based on time-series studies),is an R package for eliminating the unmeasured Confounders and estimating bidirectional causal effect and lagged causal effect
+CLWR(CrossLag weighted regression),is an R package for eliminating the unmeasured Confounders and estimating bidirectional causal effect and lagged causal effect
 
 
 
